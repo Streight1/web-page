@@ -2,4 +2,4 @@
 Jdeme budovat hezkou webovou stranku. Budu psat update jak to pujde.
 
 
-Autor obrazku: Autor/ka fotografie: Pixabay: https://www.pexels.com/cs-cz/foto/kov-auto-vozidlo-chrome-159293/
+Vcera jsem zacal. Trochu jsem bojoval s obrazky, ale stranka vypada plne responzivne. Pravdepodobne by se dal vylepsit kod CSS a optimalizovat. To same i u HTML, bude potreba si najit nejakou konvenci.
