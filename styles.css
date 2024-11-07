@@ -138,6 +138,7 @@ div .text {
     color: white;
     gap: 50px;
     align-items: center;
+    justify-content: space-between;
 }
 
 .obsah3 button {
@@ -151,7 +152,7 @@ div .text {
 
 .footer {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     background-color: #1f2937;
     padding: 20px;
